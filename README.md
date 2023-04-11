@@ -1,0 +1,2 @@
+# ChatGptJailbreaks
+some Chatgpt jailbreaks 
